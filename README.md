@@ -32,4 +32,4 @@ Translating raw numbers into meaningful business takeaways.
 📢 Connect With Me
 If you liked this project or have feedback, let’s connect!
 LinkedIn: https://www.linkedin.com/in/nellay-rawalh-2b26902ba/
-GitHub: 
+GitHub: https://github.com/nrawalh
