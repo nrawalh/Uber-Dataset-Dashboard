@@ -19,8 +19,17 @@ The project includes an interactive Excel Dashboard summarizing key insights:
 ⭐ Comparison of Driver vs Customer Ratings
 
 🔑 Key Insights
-Peak Hours: Most rides occur in the evening (6–9 PM).
 Weekends vs Weekdays: Demand rises significantly on weekends.
 Cancellations: Majority caused by customers due to long wait times.
 Revenue Drivers: Top 10 pickup locations contribute the most revenue.
 Ratings: Drivers are rated slightly higher (4.6) than customers (4.3).
+
+🎯 What I Learned
+How to clean and analyze ride data using Pandas.
+Building dashboards in Excel to present insights clearly.
+Translating raw numbers into meaningful business takeaways.
+
+📢 Connect With Me
+If you liked this project or have feedback, let’s connect!
+LinkedIn: https://www.linkedin.com/in/nellay-rawalh-2b26902ba/
+GitHub: 
